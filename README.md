@@ -1,6 +1,6 @@
 # 🌗 Gradient Calculator Web App
 
-A sleek, responsive **Calculator Web Application** built using **HTML**, **CSS**, and **JavaScript**. This project features a beautiful **linear gradient light/dark mode toggle**, basic arithmetic operations, percentage calculations, button **sound effects**, and full **keyboard input support**.
+A sleek, responsive **Calculator Web Application** built using **HTML**, **CSS**, and **JavaScript**. This project features a beautiful **linear gradient light/dark mode toggle**, basic arithmetic operations, percentage calculations, button **sound effects**, and full **keyboard input support** Creating a basic calculator to do basic arithmetic operations. Using HTML, CSS, JS..
 
 ---
 

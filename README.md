@@ -18,7 +18,7 @@ A sleek, responsive **Calculator Web Application** built using **HTML**, **CSS**
 
 ## 🔗 Live Preview
 
-👉 [Click to open the calculator](https://github.com/sohom09/calculator/blob/main/index.html)
+👉 [Click to open the calculator](https://htmlpreview.github.io/?https://github.com/sohom09/calculator/blob/main/index.html)
 
 ---
 

@@ -28,7 +28,7 @@ A sleek, responsive **Calculator Web Application** built using **HTML**, **CSS**
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light](screenshots/light-mode.png) | ![Dark](screenshots/dark-mode.png) |
+| ![Light](light-mode.png) | ![Dark](screenshots/dark-mode.png) |
 
 ---
 

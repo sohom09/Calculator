@@ -18,7 +18,7 @@ A sleek, responsive **Calculator Web Application** built using **HTML**, **CSS**
 
 ## 🔗 Live Preview
 
-👉 [Click to open the calculator](https://sohom09.github.io/calculator-gradient-theme/)
+👉 [Click to open the calculator]([https://sohom09.github.io/calculator-gradient-theme/](https://github.com/sohom09/calculator/blob/main/index.html))
 
 > 📌 *(Make sure you have deployed this repo using GitHub Pages)*
 
